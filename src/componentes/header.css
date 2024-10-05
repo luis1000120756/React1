@@ -1,0 +1,16 @@
+header {
+    background-image: url('https://img.freepik.com/premium-photo/homemade-loaf-rustic-wooden-table-perfect-culinary-backgrounds_1303199-187.jpg?w=740');
+    text-align: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.encabezado {
+    margin-top: 100px;
+    font-style: italic;
+    background-color: antiquewhite;
+    justify-content: center;
+    align-content: center;
+
+}
